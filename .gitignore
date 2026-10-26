@@ -1,0 +1,15 @@
+Python
+
+pycache/ *.py[cod] *$py.class
+
+Ambientes virtuais
+
+venv/ .venv/ env/
+
+Configurações do editor
+
+.vscode/ .idea/
+
+Arquivos do sistema operacional
+
+.DS_Store Thumbs.db 
